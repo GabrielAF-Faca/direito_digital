@@ -1,0 +1,1 @@
+Detalhamento de disposições para a correta execução ou aplicação da [[Norma]] regulamentada.
