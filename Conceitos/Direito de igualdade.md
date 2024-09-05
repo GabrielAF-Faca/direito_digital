@@ -1,0 +1,1 @@
+O direito à igualdade é o direito que todos têm de ser tratados igualmente na medida em que se igualem e desigualmente na medida em que se desigualem, quer perante a ordem jurídica (igualdade formal), quer perante a oportunidade de acesso aos bens da vida (igualdade material), pois todas as pessoas nascem livres e iguais em dignidade e direitos.

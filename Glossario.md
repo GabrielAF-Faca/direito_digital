@@ -14,3 +14,13 @@ Diferença entre [Norma](obsidian://open?vault=Direito%20Digital&file=Norma), [L
 [Lei Carolina Dieckmann](obsidian://open?vault=Direito%20Digital&file=Lei%20Carolina%20Dieckmann): criminaliza a invasão de aparelhos eletrônicos, interrupção de serviços digitais ou de conexão, falsificação de documentos ou de cartões de crédito ou débito.
 [Marco Civil da Internet](obsidian://open?vault=Direito%20Digital&file=Marco%20Civil%20da%20Internet): aborda a maneira de utilização da internet em território nacional, preservando valores como liberdade de expressão, neutralidade e privacidade.
 [Lei Geral de Proteção de Dados Pessoais](obsidian://open?vault=Direito%20Digital&file=Lei%20Geral%20de%20Prote%C3%A7%C3%A3o%20de%20Dados%20Pessoais): resguardar os dados pessoais de pessoas e empresas que estão dentro da internet.
+
+___
+### Vocabulário
+
+[[Privacidade]]
+[[Compliance]]
+
+___
+### [[Direito]]
+

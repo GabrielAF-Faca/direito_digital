@@ -1,0 +1,1 @@
+A constituição federal afirma que é livre a manifestação do pensamento, mas veda o anonimato. A livre expressão da opinião é um direito garantido pela constituição brasileira, mas também o é o direito de resposta e à indenização por danos morais, razões pelas quais o anonimato não é permitido.

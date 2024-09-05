@@ -1,0 +1,1 @@
+No Brasil, o sigilo das comunicações é um dos direitos fundamentais descritos no art. 5º da Constituição Federal de 1988. A garantia desse direito é essencial para a proteção das esferas de intimidade e privacidade dos indivíduos.
