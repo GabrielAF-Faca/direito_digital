@@ -24,3 +24,6 @@ ___
 ___
 ### [[Direito]]
 
+___
+#### [Conflito](obsidian://open?vault=Direito%20Digital&file=Conceitos%2FConflito)
+
